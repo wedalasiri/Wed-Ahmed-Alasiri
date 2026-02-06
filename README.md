@@ -1,1 +1,12 @@
-# Wed-Ahmed-Alasiri
+# 💫 About Me:
+About Me<br><br>Hi! I’m Wed Alasiri, a passionate iOS developer and cybersecurity enthusiast. I love building mobile applications using Swift and SwiftUI, integrating APIs, and creating smooth, interactive user experiences. Alongside app development, I explore cybersecurity, learning how to secure systems, assess vulnerabilities, and understand emerging threats.<br><br>💻 Skills:<br>iOS Development: Swift, SwiftUI, REST APIs, JSON, Git, App Architecture, UI/UX Design<br>Cybersecurity: Network Security, Penetration Testing Basics, Vulnerability Assessment, Secure Coding Practices, Ethical Hacking Fundamentals, Cryptography Basics, Cyber Threat Analysis<br>🌱 Currently learning: Advanced iOS patterns, AI integration in apps, and cybersecurity certifications.<br>📫 Connect with me: LinkedIn : https://www.linkedin.com/in/wed-alasiri-15ba242ab/ | Email : wed.alasiri2025@gmail.com
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wed-alasiri-15ba242ab/) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
